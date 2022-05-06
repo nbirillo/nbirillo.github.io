@@ -9,6 +9,7 @@ venue: "<b>MSR'22</b>"
 pdf: 'https://arxiv.org/abs/2203.16718'
 tool: 'https://github.com/JetBrains-Research/Matroskin'
 data: 'https://zenodo.org/record/6383115'
+video: 'https://www.youtube.com/watch?v=bYXUfXtR2-Y'
 counter_id: 'C40'
 level: 'A'
 award: '🏆 ACM SIGSOFT Distinguished Paper Award 🏆'

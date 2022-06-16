@@ -4,7 +4,7 @@ authors: '<i>Egor Bogomolov, Sergey Zhuravlev, Egor Spirin, and Timofey Bryksin<
 status: "preprint"
 collection: publications
 permalink: /publication/2022-06-07-project-fine-tuning
-date: 2022-06-0
+date: 2022-06-07
 venue: "<b>e-Print archive</b>"
 pdf: 'https://arxiv.org/abs/2206.03333'
 data: 'https://zenodo.org/record/6040745'

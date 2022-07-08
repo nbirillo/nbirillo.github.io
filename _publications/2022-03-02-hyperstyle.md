@@ -1,11 +1,11 @@
 ---
 title: "Hyperstyle: A Tool for Assessing the Code Quality of Solutions to Programming Assignments"
 authors: '<i>Anastasiia Birillo, Ilya Vlasov, Artyom Burylov, Vitalii Selishchev, Artyom Goncharov, Elena Tikhomirova, Nikolay Vyahhi, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publication/2022-03-02-hyperstyle
 date: 2022-03-02
-venue: "<b>SIGCSE'22</b>"
+venue: "proceedings of <b>SIGCSE'22</b>"
 pdf: 'https://arxiv.org/abs/2112.02963'
 tool: 'https://github.com/hyperskill/hyperstyle'
 paperurl: 'https://doi.org/10.1145/3478431.3499294'

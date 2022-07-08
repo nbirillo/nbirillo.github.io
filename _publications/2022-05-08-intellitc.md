@@ -1,13 +1,14 @@
 ---
 title: "IntelliTC: Automating Type Changes in IntelliJ IDEA"
 authors: '<i>Oleg Smirnov, Ameya Ketkar, Timofey Bryksin, Nikolaos Tsantalis, and Danny Dig</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publication/2022-05-08-intellitc
 date: 2022-05-08
-venue: "<b>ICSE'22</b>"
+venue: "proceedings of <b>ICSE'22</b>"
 pdf: 'https://arxiv.org/abs/2112.03619'
 tool: 'https://github.com/JetBrains-Research/data-driven-type-migration'
+paperurl: 'https://doi.org/10.1109/ICSE-Companion55297.2022.9793766'
 video: 'https://www.youtube.com/watch?v=pdcfvADA1PY'
 counter_id: 'C36'
 level: 'A*'

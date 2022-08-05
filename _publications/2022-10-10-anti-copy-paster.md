@@ -5,7 +5,7 @@ status: "accepted"
 collection: publications
 permalink: /publication/2022-10-10-anti-copy-paster
 date: 2022-10-10
-venue: '<b>ASE'22</b>'
+venue: "<b>ASE'22</b>"
 level: 'A*'
 pdf: 'https://arxiv.org/abs/2112.15230'
 tool: 'https://github.com/JetBrains-Research/anti-copy-paster'

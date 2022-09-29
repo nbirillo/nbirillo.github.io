@@ -35,8 +35,8 @@ author_profile: true
 <b>2021</b>: <a href="https://icsme2021.github.io/program/Keynotes.html">ICSME</a>, <a href="https://iwor.github.io/iwor2021/keynote.html">IWoR</a>
 
 <h3>Awardee</h3>
-<b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publication/2022-05-23-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
-<b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://areyde.com/tool/sorrel">Sorrel</a>)<br>
+<b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://jzuken.github.io/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
+<b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://jzuken.github.io/tools/sorrel">Sorrel</a>)<br>
 
 <hr color="#888888" size="4" noshade>
 

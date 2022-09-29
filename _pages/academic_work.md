@@ -24,7 +24,7 @@ author_profile: true
 
 <h3>Reviewer</h3>
 
-<b>2023</b>: <a href="https://conf.researchr.org/track/icse-2023/icse-2023-posters">ICSE</a> (Poster Track PC), <a href="https://saner2023.must.edu.mo/restrack">SANER</a> (Research Track PC)<br>
+<b>2023</b>: <a href="https://conf.researchr.org/track/icse-2023/icse-2023-posters">ICSE</a> (Poster Track PC), <a href="https://saner2023.must.edu.mo/">SANER</a> (Research Track PC, Tool Track PC)<br>
 <b>2022</b>: <a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a>  (Research Track PC), <a href="https://2022.esec-fse.org/track/fse-2022-industry">ESEC/FSE</a> (Industry Track PC), <a href="https://conf.researchr.org/track/icse-2022/icse-2022-posters">ICSE</a> (Poster Track PC), <a href="https://iwor.github.io/iwor2022/">IWoR</a> (PC), <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC, Data and Tool Showcase Track PC), <a href="https://saner2022.uom.gr/tooltrack">SANER</a> (Tool Track PC), <a href="https://seim-conf.org/en/">SEIM</a><br>
 <b>2021</b>: <a href="https://src.acm.org/candidates/2021">ACM SRC Grand Finals</a> (Judge), <a href="https://2021.esec-fse.org/track/fse-2021-industry">ESEC/FSE</a> (Industry Track PC), <a href="https://2021.msrconf.org/track/msr-2021-technical-papers">MSR</a> (Technical Track PC), <a href="https://seim-conf.org/en/archive/2021/">SEIM</a><br>
 <b>2020</b>: <a href="https://src.acm.org/candidates/2020">ACM SRC Grand Finals</a> (Judge), <a href="https://seim-conf.org/en/archive/2020/">SEIM</a><br>
@@ -44,8 +44,8 @@ author_profile: true
 
 <h3>Teaching</h3>
 
-<b>Since 2008</b>: senior lecturer and associate professor at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-<b>Since 2018</b>: associate professor at <a href="https://www.hse.ru/en/">HSE University</a>.
+<b>2008--2022</b>: senior lecturer and associate professor at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>2018--2022</b>: associate professor at <a href="https://www.hse.ru/en/">HSE University</a>.
 
 <b>University Courses</b>:
 <ul>
@@ -58,6 +58,7 @@ author_profile: true
 </ul>
 
 <h3>Curating and Advising</h3>
+<b>2022</b>: 3 Master's theses and 2 Bachelor's theses.<br>
 <b>2021</b>: 4 Master's theses and 6 Bachelor's theses.<br>
 <b>2020</b>: 2 Master's theses and 11 Bachelor's theses.<br>
 <b>2019</b>: 2 Master's theses and 7 Bachelor's theses.<br>

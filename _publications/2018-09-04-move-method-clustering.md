@@ -2,7 +2,7 @@
 title: "Automatic Recommendation of Move Method Refactorings Using Clustering Ensembles"
 authors: '<i>Timofey Bryksin, Evgenii Novozhilov, and Aleksei Shpilman</i>'
 collection: publications
-permalink: /publication/2018-09-04-move-method-clustering
+permalink: /publications/2018-09-04-move-method-clustering
 date: 2018-09-04
 venue: "proceedings of <b>IWoR'18</b>"
 paperurl: 'https://doi.org/10.1145/3242163.3242171'

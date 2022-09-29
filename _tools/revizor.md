@@ -1,7 +1,7 @@
 ---
 title: "Revizor"
 collection: tools
-permalink: /tool/revizor
+permalink: /tools/revizor
 tool: 'https://github.com/JetBrains-Research/revizor'
 video: 'https://www.youtube.com/watch?v=5eLs14nco7E'
 pdf: 'https://arxiv.org/abs/2108.11199'

@@ -1,7 +1,7 @@
 ---
 title: "AntiCopyPaster"
 collection: tools
-permalink: /tool/anti-copy-paster
+permalink: /tools/anti-copy-paster
 tag: 'A plugin for IntelliJ IDEA that tracks the pasting of code inside the IDE and suggests appropriate Extract Method refactorings to combat the propagation of duplicates.'
 pdf: 'https://arxiv.org/abs/2112.15230'
 tool: 'https://github.com/JetBrains-Research/anti-copy-paster'

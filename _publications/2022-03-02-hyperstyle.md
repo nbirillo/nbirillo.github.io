@@ -3,7 +3,7 @@ title: "Hyperstyle: A Tool for Assessing the Code Quality of Solutions to Progra
 authors: '<i>Anastasiia Birillo, Ilya Vlasov, Artyom Burylov, Vitalii Selishchev, Artyom Goncharov, Elena Tikhomirova, Nikolay Vyahhi, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2022-03-02-hyperstyle
+permalink: /publications/2022-03-02-hyperstyle
 date: 2022-03-02
 venue: "proceedings of <b>SIGCSE'22</b>"
 pdf: 'https://arxiv.org/abs/2112.02963'

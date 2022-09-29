@@ -3,7 +3,7 @@ title: "So Much in So Little: Creating Lightweight Embeddings of Python Librarie
 authors: '<i>Yaroslav Golubev, Egor Bogomolov, Egor Bulychev, and Timofey Bryksin</i>'
 status: "preprint"
 collection: publications
-permalink: /publication/2022-09-07-library-embeddings
+permalink: /publications/2022-09-07-library-embeddings
 date: 2022-09-07
 venue: "<b>e-Print archive</b>"
 pdf: 'https://arxiv.org/abs/2209.03507'

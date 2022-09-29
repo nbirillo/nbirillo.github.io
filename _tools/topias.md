@@ -1,7 +1,7 @@
 ---
 title: "Topias"
 collection: tools
-permalink: /tool/topias
+permalink: /tools/topias
 paperurl: 'https://doi.org/10.1145/3379597.3387451'
 pdf: 'https://arxiv.org/abs/2004.01652'
 video: 'https://www.youtube.com/watch?v=xsqc4gCTxfA'

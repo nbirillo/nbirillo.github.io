@@ -2,7 +2,7 @@
 title: "A Study of Potential Code Borrowing and License Violations in Java Projects on GitHub"
 authors: '<i>Yaroslav Golubev, Maria Eliseeva, Nikita Povarov, and Timofey Bryksin</i>'
 collection: publications
-permalink: /publication/2020-06-29-license-violations
+permalink: /publications/2020-06-29-license-violations
 date: 2020-06-29
 venue: "proceedings of <b>MSR'20</b>"
 paperurl: 'https://doi.org/10.1145/3379597.3387455'

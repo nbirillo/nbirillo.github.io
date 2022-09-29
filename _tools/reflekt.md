@@ -1,7 +1,7 @@
 ---
 title: "Reflekt"
 collection: tools
-permalink: /tool/reflekt
+permalink: /tools/reflekt
 pdf: 'https://arxiv.org/abs/2202.06033'
 tool: 'https://github.com/JetBrains-Research/reflekt'
 paperurl: 'https://doi.org/10.1109/ICSE-SEIP55303.2022.9793932'

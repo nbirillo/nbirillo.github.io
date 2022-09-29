@@ -1,7 +1,7 @@
 ---
 title: "ASTMiner"
 collection: tools
-permalink: /tool/astminer
+permalink: /tools/astminer
 tag: 'A library for mining of path-based representations of code and more.'
 pdf: 'https://sback.it/publications/msr2019b.pdf'
 paperurl: 'https://doi.org/10.1109/MSR.2019.00013'

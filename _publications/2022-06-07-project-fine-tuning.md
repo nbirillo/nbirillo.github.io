@@ -3,7 +3,7 @@ title: "Assessing Project-Level Fine-Tuning of ML4SE Models"
 authors: '<i>Egor Bogomolov, Sergey Zhuravlev, Egor Spirin, and Timofey Bryksin</i>'
 status: "preprint"
 collection: publications
-permalink: /publication/2022-06-07-project-fine-tuning
+permalink: /publications/2022-06-07-project-fine-tuning
 date: 2022-06-07
 venue: "<b>e-Print archive</b>"
 pdf: 'https://arxiv.org/abs/2206.03333'

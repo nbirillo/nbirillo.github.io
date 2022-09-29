@@ -3,7 +3,7 @@ title: "Evaluating the Impact of Source Code Parsers on ML4SE Models"
 authors: '<i>Ilya Utkin, Egor Spirin, Egor Bogomolov, and Timofey Bryksin</i>'
 status: "preprint"
 collection: publications
-permalink: /publication/2022-06-17-parser-comparison
+permalink: /publications/2022-06-17-parser-comparison
 date: 2022-06-17
 venue: "<b>e-Print archive</b>"
 pdf: 'https://arxiv.org/abs/2206.08713'

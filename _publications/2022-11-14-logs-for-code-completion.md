@@ -3,7 +3,7 @@ title: "All You Need Is Logs: Improving Code Completion by Learning from Anonymo
 authors: '<i>Vitaliy Bibaev, Alexey Kalina, Vadim Lomshakov, Yaroslav Golubev, Alexander Bezzubov, Nikita Povarov, and Timofey Bryksin</i>'
 status: "accepted"
 collection: publications
-permalink: /publication/2022-11-14-logs-for-code-completion
+permalink: /publications/2022-11-14-logs-for-code-completion
 date: 2022-11-14
 venue: "<b>ESEC/FSE'22</b>"
 level: 'A*'

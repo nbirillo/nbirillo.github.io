@@ -1,7 +1,7 @@
 ---
 title: "SuperParser"
 collection: tools
-permalink: /tool/super-parser
+permalink: /tools/super-parser
 pdf: 'https://arxiv.org/abs/2206.08713'
 tool: 'https://zenodo.org/record/6366591'
 tag: 'A tool for mining software repositories.'

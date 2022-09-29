@@ -1,7 +1,7 @@
 ---
 title: "Hyperstyle"
 collection: tools
-permalink: /publication/hyperstyle
+permalink: /tools/hyperstyle
 pdf: 'https://arxiv.org/abs/2112.02963'
 tool: 'https://github.com/hyperskill/hyperstyle'
 tag: "A tool for detecting code quality issues in the students' submissions on massive open online courses."

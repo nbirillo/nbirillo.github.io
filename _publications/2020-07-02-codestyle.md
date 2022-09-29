@@ -2,7 +2,7 @@
 title: "Building Implicit Vector Representations of Individual Coding Style"
 authors: '<i>Vladimir Kovalenko, Egor Bogomolov, Timofey Bryksin, and Alberto Bacchelli</i>'
 collection: publications
-permalink: /publication/2020-07-02-codestyle
+permalink: /publications/2020-07-02-codestyle
 date: 2020-07-02
 venue: "proceedings of <b>CHASE'20</b>"
 paperurl: 'https://doi.org/10.1145/3387940.3391494'

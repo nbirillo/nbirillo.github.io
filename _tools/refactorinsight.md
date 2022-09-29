@@ -1,7 +1,7 @@
 ---
 title: "RefactorInsight"
 collection: tools
-permalink: /tool/refactorinsight
+permalink: /tools/refactorinsight
 tag: 'A plugin for IntelliJ IDEA that enhances the representation of code changes with refactoring information in Java and Kotlin projects.'
 tool: 'https://github.com/JetBrains-Research/RefactorInsight'
 video: 'https://www.youtube.com/watch?v=-6L2AKQ66nA'

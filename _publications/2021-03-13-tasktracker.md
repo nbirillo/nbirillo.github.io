@@ -3,7 +3,7 @@ title: "TaskTracker-tool: a Toolkit for Tracking of Code Snapshots and Activity 
 authors: '<i>Elena Lyulina, Anastasiia Birillo, Vladimir Kovalenko, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2021-03-13-tasktracker
+permalink: /publications/2021-03-13-tasktracker
 date: 2021-03-13
 venue: "proceedings of <b>SIGCSE'21</b>"
 pdf: 'https://arxiv.org/abs/2012.05085'

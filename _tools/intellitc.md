@@ -1,7 +1,7 @@
 ---
 title: "IntelliTC"
 collection: tools
-permalink: /tool/intellitc
+permalink: /tools/intellitc
 pdf: 'https://arxiv.org/abs/2112.03619'
 tool: 'https://github.com/JetBrains-Research/data-driven-type-migration'
 video: 'https://www.youtube.com/watch?v=pdcfvADA1PY'

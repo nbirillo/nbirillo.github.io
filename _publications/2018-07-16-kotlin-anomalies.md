@@ -2,7 +2,7 @@
 title: "Detecting Anomalies in Kotlin Code"
 authors: '<i>Timofey Bryksin, Victor Petukhov, Kirill Smirenko, Nikita Povarov</i>'
 collection: publications
-permalink: /publication/2018-07-16-kotlin-anomalies
+permalink: /publications/2018-07-16-kotlin-anomalies
 date: 2018-07-16
 venue: "proceedings of <b>ML4PL'18</b>"
 paperurl: 'https://doi.org/10.1145/3236454.3236457'

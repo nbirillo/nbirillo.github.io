@@ -3,7 +3,7 @@ title: "RefactorInsight: Enhancing IDE Representation of Changes in Git with Ref
 authors: '<i>Zarina Kurbatova, Vladimir Kovalenko, Ioana Savu, Bob Brockbernd, Dan Andreescu, Matei Anton, Roman Venediktov, Elena Tikhomirova, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2021-11-15-refactorinsight
+permalink: /publications/2021-11-15-refactorinsight
 date: 2021-11-15
 venue: "proceedings of <b>ASE'21</b>"
 pdf: 'https://arxiv.org/abs/2108.11202'

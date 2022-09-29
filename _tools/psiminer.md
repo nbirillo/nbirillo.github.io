@@ -1,7 +1,7 @@
 ---
 title: "PSIMiner"
 collection: tools
-permalink: /tool/psiminer
+permalink: /tools/psiminer
 tag: 'A tool for processing PSI trees from IntelliJ IDEA and creating a labeled dataset from them.'
 pdf: 'https://arxiv.org/abs/2103.12778'
 paperurl: 'https://doi.org/10.1109/MSR52588.2021.00014'

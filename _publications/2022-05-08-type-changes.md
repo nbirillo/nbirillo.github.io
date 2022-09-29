@@ -3,7 +3,7 @@ title: "Inferring and Applying Type Changes"
 authors: '<i>Ameya Ketkar, Oleg Smirnov, Nikolaos Tsantalis, Danny Dig, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2022-05-08-type-changes
+permalink: /publications/2022-05-08-type-changes
 date: 2022-05-08
 venue: "proceedings of <b>ICSE'22</b>"
 pdf: 'http://users.encs.concordia.ca/~nikolaos/publications/ICSE_2022.pdf'

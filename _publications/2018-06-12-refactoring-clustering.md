@@ -2,7 +2,7 @@
 title: "Automated Refactoring of Object-Oriented Code Using Clustering Ensembles"
 authors: '<i>Timofey Bryksin, Alexey Shpilman, and Daniel Kudenko</i>'
 collection: publications
-permalink: /publication/2018-06-12-refactoring-clustering
+permalink: /publications/2018-06-12-refactoring-clustering
 date: 2018-06-12
 venue: "proceedings of <b>NLP4SE'18</b>"
 paperurl: 'https://www.aaai.org/ocs/index.php/WS/AAAIW18/paper/viewPaper/16783'

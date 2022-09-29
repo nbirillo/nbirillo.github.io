@@ -1,7 +1,7 @@
 ---
 title: "TaskTracker"
 collection: tools
-permalink: /tool/tasktracker
+permalink: /tools/tasktracker
 pdf: 'https://arxiv.org/abs/2012.05085'
 paperurl: 'https://doi.org/10.1145/3408877.3432534'
 tool: 'https://github.com/JetBrains-Research/task-tracker-plugin'

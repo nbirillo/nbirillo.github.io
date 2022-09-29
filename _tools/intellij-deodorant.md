@@ -1,7 +1,7 @@
 ---
 title: "IntelliJDeodorant"
 collection: tools
-permalink: /tool/intellij-deodorant
+permalink: /tools/intellij-deodorant
 tool: 'https://github.com/JetBrains-Research/IntelliJDeodorant'
 tag: 'An IntelliJ IDEA plugin that detects code smells in Java code and recommends appropriate refactorings to resolve them.'
 abstract: "<p><b>IntelliJDeodorant</b> is an IntelliJ IDEA plugin that detects code smells in Java code and recommends appropriate refactorings to resolve them. The tool supports several code smells, namely Feature Envy, Type/State Checking, Long Method, and God Class.</p>

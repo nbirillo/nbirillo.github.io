@@ -3,7 +3,7 @@ title: "IntelliTC: Automating Type Changes in IntelliJ IDEA"
 authors: '<i>Oleg Smirnov, Ameya Ketkar, Timofey Bryksin, Nikolaos Tsantalis, and Danny Dig</i>'
 status: "published"
 collection: publications
-permalink: /publication/2022-05-08-intellitc
+permalink: /publications/2022-05-08-intellitc
 date: 2022-05-08
 venue: "proceedings of <b>ICSE'22</b>"
 pdf: 'https://arxiv.org/abs/2112.03619'

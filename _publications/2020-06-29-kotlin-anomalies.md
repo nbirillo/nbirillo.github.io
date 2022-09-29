@@ -2,7 +2,7 @@
 title: "Using Large-Scale Anomaly Detection on Code to Improve Kotlin Compiler"
 authors: '<i>Timofey Bryksin, Victor Petukhov, Ilya Alexin, Stanislav Prikhodko, Alexey Shpilman, Vladimir Kovalenko, and Nikita Povarov</i>'
 collection: publications
-permalink: /publication/2020-06-29-kotlin-anomalies
+permalink: /publications/2020-06-29-kotlin-anomalies
 date: 2020-06-29
 venue: "proceedings of <b>MSR'20</b>"
 paperurl: 'https://doi.org/10.1145/3379597.3387447'

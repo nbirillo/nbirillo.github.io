@@ -3,7 +3,7 @@ title: "On the Transferability of Pre-trained Language Models for Low-Resource P
 authors: '<i>Fuxiang Chen, Fatemeh Fard, David Lo, and Timofey Bryksin</i>'
 status: "accepted"
 collection: publications
-permalink: /publication/2022-05-16-language-models-transferability
+permalink: /publications/2022-05-16-language-models-transferability
 date: 2022-05-16
 venue: "<b>ICPC'22</b>"
 pdf: 'https://arxiv.org/abs/2204.09653'

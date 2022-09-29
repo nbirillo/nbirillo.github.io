@@ -1,7 +1,7 @@
 ---
 title: "MoveMethodGenerator"
 collection: tools
-permalink: /tool/move-method-generator
+permalink: /tools/move-method-generator
 paperurl: 'https://doi.org/10.1109/IWoR.2019.00012'
 tool: 'https://github.com/JetBrains-Research/MoveMethodGenerator'
 pdf: 'https://www.researchgate.net/profile/Timofey-Bryksin-2/publication/335945222_Evaluation_of_Move_Method_Refactorings_Recommendation_Algorithms_Are_We_Doing_It_Right/links/5dee9cbc4585159aa470f15c/Evaluation-of-Move-Method-Refactorings-Recommendation-Algorithms-Are-We-Doing-It-Right.pdf'

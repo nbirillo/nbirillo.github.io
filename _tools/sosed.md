@@ -1,7 +1,7 @@
 ---
 title: "Sosed"
 collection: tools
-permalink: /tool/sosed
+permalink: /tools/sosed
 paperurl: 'https://doi.org/10.1145/3324884.3415291'
 pdf: 'https://arxiv.org/abs/2007.02599'
 tool: 'https://github.com/JetBrains-Research/sosed/'

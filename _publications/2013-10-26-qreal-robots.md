@@ -2,7 +2,7 @@
 title: "QReal:Robots, an Environment for Teaching Computer Science and Robotics in Schools"
 authors: '<i>Andrey Terekhov, Yurii Litvinov, and Timofey Bryksin</i>'
 collection: publications
-permalink: /publication/2013-10-26-qreal-robots
+permalink: /publications/2013-10-26-qreal-robots
 date: 2013-10-26
 venue: "the proceedings of <b>CEE-SECR'13</b>"
 paperurl: 'https://doi.org/10.1145/2556610.2591506'

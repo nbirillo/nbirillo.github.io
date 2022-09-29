@@ -3,7 +3,7 @@ title: "On the Nature of Code Cloning in Open-Source Java Projects"
 authors: '<i>Yaroslav Golubev and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2021-10-02-nature-of-clones
+permalink: /publications/2021-10-02-nature-of-clones
 date: 2021-10-02
 venue: "proceedings of <b>IWSC'21</b>"
 pdf: 'https://arxiv.org/abs/2107.04712'

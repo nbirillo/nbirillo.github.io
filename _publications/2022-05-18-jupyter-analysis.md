@@ -3,7 +3,7 @@ title: "A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts
 authors: '<i>Konstantin Grotov, Sergey Titov, Vladimir Sotnikov, Yaroslav Golubev, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2022-05-18-jupyter-analysis
+permalink: /publications/2022-05-18-jupyter-analysis
 date: 2022-05-18
 venue: "proceedings of <b>MSR'22</b>"
 paperurl: 'https://doi.org/10.1145/3524842.3528447'

@@ -3,7 +3,7 @@ title: "Infrastructure in Code: Towards Developer-Friendly Cloud Applications"
 authors: '<i>Vladislav Tankov, Dmitriy Valchuk, Yaroslav Golubev, and Timofey Bryksin</i>'
 collection: publications
 status: "published"
-permalink: /publication/2021-11-15-infrastructure-in-code
+permalink: /publications/2021-11-15-infrastructure-in-code
 date: 2021-11-15
 venue: "proceedings of <b>ASE'21</b>"
 pdf: 'https://arxiv.org/abs/2108.07842'

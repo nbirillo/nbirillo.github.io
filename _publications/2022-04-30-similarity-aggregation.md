@@ -3,7 +3,7 @@ title: "Aggregation of Stack Trace Similarities for Crash Report Deduplication"
 authors: '<i>Nikolay Karasov, Aleksandr Khvorov, Roman Vasiliev, Yaroslav Golubev, and Timofey Bryksin</i>'
 status: "preprint"
 collection: publications
-permalink: /publication/2022-04-30-similarity-aggregation
+permalink: /publications/2022-04-30-similarity-aggregation
 date: 2022-04-30
 venue: "<b>e-Print archive</b>"
 pdf: 'https://arxiv.org/abs/2205.00212'

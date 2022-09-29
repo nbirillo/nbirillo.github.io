@@ -3,7 +3,7 @@ title: "AntiCopyPaster: Extracting Code Duplicates As Soon As They Are Introduce
 authors: '<i>Eman Abdullah AlOmar, Anton Ivanov, Zarina Kurbatova, Yaroslav Golubev, Mohamed Wiem Mkaouer, Ali Ouni, Timofey Bryksin, Le Nguyen, Amit Kini, and Aditya Thakur</i>'
 status: "accepted"
 collection: publications
-permalink: /publication/2022-10-10-anti-copy-paster
+permalink: /publications/2022-10-10-anti-copy-paster
 date: 2022-10-10
 venue: "<b>ASE'22</b>"
 level: 'A*'

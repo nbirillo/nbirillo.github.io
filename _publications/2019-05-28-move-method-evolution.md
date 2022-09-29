@@ -2,7 +2,7 @@
 title: "Evaluation of Move Method Refactorings Recommendation Algorithms: Are We Doing It Right?"
 authors: '<i>Evgenii Novozhilov, Ivan Veselov, Mikhail Pravilov, and Timofey Bryksin</i>'
 collection: publications
-permalink: /publication/2019-05-28-move-method-evolution
+permalink: /publications/2019-05-28-move-method-evolution
 date: 2019-05-28
 venue: "proceedings of <b>IWoR'19</b>"
 paperurl: 'https://doi.org/10.1109/IWoR.2019.00012'

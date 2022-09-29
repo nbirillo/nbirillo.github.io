@@ -2,7 +2,7 @@
 title: "Multistroke Mouse Gestures Recognition in QReal metaCASE Technology"
 authors: '<i>Maria Osechkina, Yuri Litvinov, and Timofey Bryksin</i>'
 collection: publications
-permalink: /publication/2012-06-01-mouse-gestures
+permalink: /publications/2012-06-01-mouse-gestures
 date: 2012-06-01
 venue: "the proceedings of <b>SYRCoDIS'12</b>"
 pdf: 'https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.2243&rep=rep1&type=pdf'

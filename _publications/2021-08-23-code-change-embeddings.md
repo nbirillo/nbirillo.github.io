@@ -3,7 +3,7 @@ title: "Unsupervised Learning of General-Purpose Embeddings for Code Changes"
 authors: '<i>Mikhail Pravilov, Egor Bogomolov, Yaroslav Golubev, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publication/2021-08-23-code-change-embeddings
+permalink: /publications/2021-08-23-code-change-embeddings
 date: 2021-08-23
 venue: "proceedings of <b>MaLTeSQuE'21</b>"
 pdf: 'https://arxiv.org/abs/2106.02087'

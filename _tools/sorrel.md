@@ -1,7 +1,7 @@
 ---
 title: "Sorrel"
 collection: tools
-permalink: /tool/sorrel
+permalink: /tools/sorrel
 tool: 'https://github.com/JetBrains-Research/sorrel'
 video: 'https://www.youtube.com/watch?v=doUeAwPjcPE'
 pdf: 'https://arxiv.org/abs/2107.13315'

@@ -7,6 +7,7 @@ permalink: /publications/2023-02-05-duplicate-extraction
 date: 2023-02-05
 venue: "<b>Information and Software Technology</b>"
 paperurl: 'https://doi.org/10.1016/j.infsof.2023.107169'
+pdf: 'https://arxiv.org/abs/2302.03416'
 level: 'Q1'
 counter_id: 'J1'
 data: 'https://zenodo.org/record/7428835'

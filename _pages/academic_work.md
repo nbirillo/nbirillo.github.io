@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 
-<h2>Participation in conferences</h2>
+<h2>Activities in conferences</h2>
 
 <h3>Author</h3>
 
@@ -38,6 +38,24 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://jzuken.github.io/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>), Distinguished Reviewer Award at <a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a><br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://jzuken.github.io/tools/sorrel">Sorrel</a>)<br>
+
+<hr color="#888888" size="4" noshade>
+
+<h2>Activities in journals</h2>
+
+<h3>Author</h3>
+
+<b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a>
+
+<h3>Reviewer</h3>
+
+<b>2023</b>: <a href="https://www.springer.com/journal/10664">Empirical Software Engineering</a><br>
+<b>2022</b>: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">Journal of Systems and Software</a><br>
+<b>2020</b>: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">Journal of Systems and Software</a>
+
+<h3>Awardee</h3>
+
+<b>2022</b>: Best Reviewer Award at the <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">Journal of Systems and Software</a>
 
 <hr color="#888888" size="4" noshade>
 

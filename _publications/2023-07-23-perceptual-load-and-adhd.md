@@ -5,7 +5,7 @@ status: "accepted"
 collection: publications
 permalink: /publications/2023-07-23-perceptual-load-and-adhd
 date: 2023-06-23
-venue: "<b>HCI'23</b>"
+venue: "<b>AC'23</b>"
 level: '—'
 pdf: 'https://arxiv.org/abs/2302.06376'
 data: 'https://github.com/JetBrains-Research/adhd-study'

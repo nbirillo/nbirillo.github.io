@@ -3,8 +3,8 @@ title: "Out of the BLEU: How Should We Assess Quality of the Code Generation Mod
 authors: '<i>Mikhail Evtikhiev, Egor Bogomolov, Yaroslav Sokolov, and Timofey Bryksin</i>'
 status: "published"
 collection: publications
-permalink: /publications/2023-07-01-code-generation-metrics
-date: 2023-07-01
+permalink: /publications/2023-09-01-code-generation-metrics
+date: 2023-09-01
 venue: "<b>Journal of Systems and Software</b>"
 paperurl: 'https://doi.org/10.1016/j.jss.2023.111741'
 pdf: 'https://arxiv.org/abs/2208.03133'

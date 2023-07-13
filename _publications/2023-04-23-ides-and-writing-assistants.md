@@ -1,7 +1,7 @@
 ---
 title: "What Writing Assistants Can Learn from Programming IDEs"
 authors: '<i>Sergey Titov, Agnia Sergeyuk, and Timofey Bryksin</i>'
-status: "published"
+status: "presented"
 collection: publications
 permalink: /publications/2023-04-23-ides-and-writing-assistants
 date: 2023-04-23

@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-09-11-commit-message-completion
 date: 2023-09-11
-venue: "<b>ASE'23</b>"
+venue: "proceedings of <b>ASE'23</b>"
 level: 'A*'
 pdf: 'https://arxiv.org/abs/2308.07655'
 paperurl: 'https://doi.org/10.1109/ASE56229.2023.00078'

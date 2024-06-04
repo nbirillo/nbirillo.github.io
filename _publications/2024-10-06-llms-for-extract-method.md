@@ -3,8 +3,8 @@ title: "Together We Go Further: LLMs and IDE Static Analysis for Extract Method 
 authors: '<i>Dorin Pomian, Abhiram Bellur, Malinda Dilhara, Zarina Kurbatova, Egor Bogomolov, Timofey Bryksin, and Danny Dig</i>'
 status: "accepted"
 collection: publications
-permalink: /publications/2024-01-27-llms-for-extract-method
-date: 2024-01-27
+permalink: /publications/2024-10-06-llms-for-extract-method
+date: 2024-10-06
 venue: "<b>ICSME'24</b>"
 pdf: 'https://arxiv.org/abs/2401.15298'
 data: 'https://llm-refactoring.github.io/'

@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2024-05-11
 date: 2024-05-11
-venue: "proceedings of <b>HNI</b>"
+venue: "proceedings of <b>HNI'24</b>"
 level: 'Workshop'
 pdf: 'https://arxiv.org/abs/2405.01559'
 counter_id: 'C53'

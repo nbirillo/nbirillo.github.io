@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2022-06-17-contrastive-learning-for-semantic-clones
 date: 2022-06-17
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2206.08726'
 data: 'https://zenodo.org/record/6360627'
 counter_id: 'P4'

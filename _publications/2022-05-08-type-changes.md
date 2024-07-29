@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2022-05-08-type-changes
 date: 2022-05-08
-venue: "proceedings of <b>ICSE'22</b>"
+venue: "the proceedings of <b>ICSE'22</b>"
 pdf: 'http://users.encs.concordia.ca/~nikolaos/publications/ICSE_2022.pdf'
 paperurl: 'https://doi.org/10.1145/3510003.3510115'
 tool: 'https://type-change.github.io/index.html'

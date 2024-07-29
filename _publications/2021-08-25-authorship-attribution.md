@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2021-08-25-authorship-attribution
 date: 2021-08-25
-venue: "proceedings of <b>ESEC/FSE'21</b>"
+venue: "the proceedings of <b>ESEC/FSE'21</b>"
 pdf: 'https://arxiv.org/abs/2001.11593'
 data: 'https://github.com/JetBrains-Research/authorship-detection'
 paperurl: 'https://doi.org/10.1145/3468264.3468606'

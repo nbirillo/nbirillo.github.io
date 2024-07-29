@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2024-05-29-kotlin-ml-initiative
 date: 2024-05-29
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2405.19250'
 data: 'https://huggingface.co/collections/JetBrains/kotlin-ml-pack-66423743451ac992774574ba'
 counter_id: 'P11'

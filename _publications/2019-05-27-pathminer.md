@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2019-05-27-pathminer
 date: 2019-05-27
-venue: "proceedings of <b>MSR'19</b>"
+venue: "the proceedings of <b>MSR'19</b>"
 pdf: 'https://sback.it/publications/msr2019b.pdf'
 paperurl: 'https://doi.org/10.1109/MSR.2019.00013'
 tool: 'https://github.com/JetBrains-Research/astminer'

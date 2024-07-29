@@ -4,7 +4,7 @@ authors: '<i>Vladimir Kovalenko, Egor Bogomolov, Timofey Bryksin, and Alberto Ba
 collection: publications
 permalink: /publications/2020-07-02-codestyle
 date: 2020-07-02
-venue: "proceedings of <b>CHASE'20</b>"
+venue: "the proceedings of <b>CHASE'20</b>"
 paperurl: 'https://doi.org/10.1145/3387940.3391494'
 pdf: 'https://arxiv.org/abs/2002.03997'
 data: 'https://zenodo.org/record/3647645'

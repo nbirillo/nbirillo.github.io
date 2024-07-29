@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2021-11-15-refactorinsight
 date: 2021-11-15
-venue: "proceedings of <b>ASE'21</b>"
+venue: "the proceedings of <b>ASE'21</b>"
 pdf: 'https://arxiv.org/abs/2108.11202'
 tool: 'https://github.com/JetBrains-Research/RefactorInsight'
 video: 'https://www.youtube.com/watch?v=-6L2AKQ66nA'

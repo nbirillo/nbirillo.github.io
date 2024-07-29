@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2024-06-17-long-code-arena
 date: 2024-06-17
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2406.11612'
 data: 'https://huggingface.co/spaces/JetBrains-Research/long-code-arena'
 counter_id: 'P14'

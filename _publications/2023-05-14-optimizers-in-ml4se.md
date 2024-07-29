@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-05-14-optimizers-in-ml4se
 date: 2023-05-14
-venue: "proceedings of <b>ICSE'23</b>"
+venue: "the proceedings of <b>ICSE'23</b>"
 level: 'A*'
 pdf: 'https://arxiv.org/abs/2303.03540'
 paperurl: 'https://doi.org/10.1109/ICSE-NIER58687.2023.00027'

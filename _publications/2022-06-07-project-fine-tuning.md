@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2022-06-07-project-fine-tuning
 date: 2022-06-07
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2206.03333'
 data: 'https://zenodo.org/record/6040745'
 counter_id: 'P3'

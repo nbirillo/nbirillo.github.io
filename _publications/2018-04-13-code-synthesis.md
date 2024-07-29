@@ -4,7 +4,7 @@ authors: '<i>Vladislav Tankov and Timofey Bryksin</i>'
 collection: publications
 permalink: /publications/2018-04-13-code-synthesis
 date: 2018-04-13
-venue: "proceedings of <b>SEIM'18</b>"
+venue: "the proceedings of <b>SEIM'18</b>"
 pdf: 'http://ceur-ws.org/Vol-2135/SEIM_2018_paper_32.pdf'
 counter_id: 'C6'
 level: 'Regional'

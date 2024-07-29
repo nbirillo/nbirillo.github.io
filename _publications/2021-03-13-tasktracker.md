@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2021-03-13-tasktracker
 date: 2021-03-13
-venue: "proceedings of <b>SIGCSE'21</b>"
+venue: "the proceedings of <b>SIGCSE'21</b>"
 pdf: 'https://arxiv.org/abs/2012.05085'
 paperurl: 'https://doi.org/10.1145/3408877.3432534'
 tool: 'https://github.com/JetBrains-Research/task-tracker-plugin'

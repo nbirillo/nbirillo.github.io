@@ -4,7 +4,7 @@ authors: '<i>Timofey Bryksin, Evgenii Novozhilov, and Aleksei Shpilman</i>'
 collection: publications
 permalink: /publications/2018-09-04-move-method-clustering
 date: 2018-09-04
-venue: "proceedings of <b>IWoR'18</b>"
+venue: "the proceedings of <b>IWoR'18</b>"
 paperurl: 'https://doi.org/10.1145/3242163.3242171'
 tool: 'https://github.com/ml-in-programming/ArchitectureReloaded'
 pdf: 'https://www.researchgate.net/profile/Timofey-Bryksin-2/publication/327123088_Automatic_recommendation_of_move_method_refactorings_using_clustering_ensembles/links/5bb2fed6a6fdccd3cb814ca3/Automatic-recommendation-of-move-method-refactorings-using-clustering-ensembles.pdf'

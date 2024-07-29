@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2022-05-08-intellitc
 date: 2022-05-08
-venue: "proceedings of <b>ICSE'22</b>"
+venue: "the proceedings of <b>ICSE'22</b>"
 pdf: 'https://arxiv.org/abs/2112.03619'
 tool: 'https://github.com/JetBrains-Research/data-driven-type-migration'
 paperurl: 'https://doi.org/10.1109/ICSE-Companion55297.2022.9793766'

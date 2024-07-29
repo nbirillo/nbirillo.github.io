@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2022-06-17-parser-comparison
 date: 2022-06-17
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2206.08713'
 tool: 'https://zenodo.org/record/6366591'
 data: 'https://zenodo.org/record/6366599'

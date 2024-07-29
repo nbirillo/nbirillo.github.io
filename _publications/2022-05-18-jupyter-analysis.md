@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2022-05-18-jupyter-analysis
 date: 2022-05-18
-venue: "proceedings of <b>MSR'22</b>"
+venue: "the proceedings of <b>MSR'22</b>"
 paperurl: 'https://doi.org/10.1145/3524842.3528447'
 pdf: 'https://arxiv.org/abs/2203.16718'
 tool: 'https://github.com/JetBrains-Research/Matroskin'

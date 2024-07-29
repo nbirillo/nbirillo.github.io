@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2022-05-16-language-models-transferability
 date: 2022-05-16
-venue: "proceedings of <b>ICPC'22</b>"
+venue: "the proceedings of <b>ICPC'22</b>"
 pdf: 'https://arxiv.org/abs/2204.09653'
 paperurl: 'https://doi.org/10.1145/3524610.3527917'
 counter_id: 'C39'

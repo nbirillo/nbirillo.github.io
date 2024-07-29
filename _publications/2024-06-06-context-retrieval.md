@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2024-06-06-context-retrieval
 date: 2024-06-06
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2406.04464'
 data: 'https://github.com/JetBrains-Research/ai-agents-code-editing'
 counter_id: 'P12'

@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2022-09-07-library-embeddings
 date: 2022-09-07
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2209.03507'
 data: 'https://github.com/JetBrains-Research/similar-python-dependencies'
 counter_id: 'P6'

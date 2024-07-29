@@ -5,8 +5,9 @@ status: "accepted"
 collection: publications
 permalink: /publications/2024-07-15-llms-for-code-changes
 date: 2024-07-15
-venue: "<b>FSE'24</b>"
+venue: "the proceedings of <b>FSE'24</b>"
 level: 'A*'
+paperurl: 'https://doi.org/10.1145/3643755'
 pdf: 'https://arxiv.org/abs/2402.07138'
 counter_id: 'C55'
 data: 'https://pycrafttool.github.io/'

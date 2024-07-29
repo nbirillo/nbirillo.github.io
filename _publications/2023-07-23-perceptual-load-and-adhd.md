@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-07-23-perceptual-load-and-adhd
 date: 2023-07-23
-venue: "proceedings of <b>AC'23</b>"
+venue: "the proceedings of <b>AC'23</b>"
 level: '—'
 pdf: 'https://arxiv.org/abs/2302.06376'
 paperurl: 'https://doi.org/10.1007/978-3-031-35017-7_9'

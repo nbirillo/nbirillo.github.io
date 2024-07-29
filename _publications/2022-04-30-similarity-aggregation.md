@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2022-04-30-similarity-aggregation
 date: 2022-04-30
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/abs/2205.00212'
 data: 'https://github.com/nkarasovd/AggregationModel'
 counter_id: 'P2'

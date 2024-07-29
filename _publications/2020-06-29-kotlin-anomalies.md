@@ -4,7 +4,7 @@ authors: '<i>Timofey Bryksin, Victor Petukhov, Ilya Alexin, Stanislav Prikhodko,
 collection: publications
 permalink: /publications/2020-06-29-kotlin-anomalies
 date: 2020-06-29
-venue: "proceedings of <b>MSR'20</b>"
+venue: "the proceedings of <b>MSR'20</b>"
 paperurl: 'https://doi.org/10.1145/3379597.3387447'
 pdf: 'https://arxiv.org/abs/2004.01618'
 video: 'https://www.youtube.com/watch?v=6oAIzisevhA'

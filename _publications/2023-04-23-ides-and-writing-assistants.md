@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-04-23-ides-and-writing-assistants
 date: 2023-04-23
-venue: "proceedings of <b>In2Writing'23</b>"
+venue: "the proceedings of <b>In2Writing'23</b>"
 level: 'Workshop'
 pdf: 'https://arxiv.org/abs/2303.16175'
 counter_id: 'C44'

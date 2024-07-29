@@ -1,7 +1,7 @@
 ---
 title: "Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example"
 authors: '<i>Malinda Dilhara, Abhiram Bellur, Danny Dig, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2024-07-15-llms-for-code-changes
 date: 2024-07-15

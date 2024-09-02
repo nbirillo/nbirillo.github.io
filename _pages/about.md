@@ -7,20 +7,24 @@ redirect_from:
 - /about.html
 ---
 
-Hello! My name is Timofey, and I am the Head of [JetBrains Research](https://www.jetbrains.com/research/). From 2016 to 2024, I was leading the Laboratory of Machine Learning Methods in Software Engineering at JetBrains Research, and since 2024 I lead this entire amazing department.
+Hello! My name is Anastasiia, and I am the Head of the **Education Research** lab at [JetBrains Research](https://www.jetbrains.com/research/). I am also an external PhD student
+in Computer Science at [Utrecht University](https://www.uu.nl/en) and a track lead in a joint PhD track _“Intelligent Teaching
+Assistant in Programming Education”_ between [Delft University of Technology](https://www.tudelft.nl/en/) and JetBrains. 
 
-I graduated summa cum laude from [Saint Petersburg State University](https://english.spbu.ru/), Department of Software Engineering, in 2007. I defended my PhD thesis on a _Software platform for the creation of domain-specific visual development environments_ at Saint Petersburg State University in 2016.
 
-I also taught classes in the following universities:
-* From 2008 to 2022: senior lecturer and associate professor at [Saint Petersburg State University](https://english.spbu.ru/)
-* From 2018 to 2022: associate professor at [HSE University](https://www.hse.ru/en/)
-* From 2023: adjunct professor at [Constructor University](https://constructor.university/)
+In 2020, I obtained a Master's degree from [Saint Petersburg State University](https://english.spbu.ru/), Department of Mathematics and Mechanics. Before that, in 2017, I obtained the 
+Bachelor's degree from the same university. In parallel to my Master's education, I also graduated from Computer Science Center with triple major: Data Science, Software Engineering, and Computer Science.
+
+I taught classes in the following universities:
+* From 2020 to 2022: [Saint Petersburg State University](https://english.spbu.ru/)
+* From 2023: [Neapolis University Pafos](https://www.nup.ac.cy/)
+* From 2023: [Constructor University](https://constructor.university/)
 
 My general research interests include:
-* Software development tools and processes
-* Tools for automated code analysis
-* Applications of machine learning methods in software engineering
+* in-IDE learning
+* intelligent tutoring systems
+* generative AI
 
-On this website, you can find the list of my [publications](https://jzuken.github.io/publications/), practical [tools](https://jzuken.github.io/tools/) developed under my supervision, my [academic and educational work](https://jzuken.github.io/academic_work/), as well as the recordings of my [talks](https://jzuken.github.io/talks/) at various conferences.
+On this website, you can find the list of my [publications](https://jzuken.github.io/publications/), practical [tools](https://jzuken.github.io/tools/) developed under my supervision, my [academic and educational work](https://jzuken.github.io/academic_work/), as well as the recordings of my [talks](https://jzuken.github.io/talks/) at various places.
 
 Feel free to [contact me](mailto:timofey.bryksin[at]jetbrains.com) if you want to collaborate!

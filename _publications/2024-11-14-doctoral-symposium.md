@@ -1,5 +1,5 @@
 ---
-title: "Bringing Industry-Grade Code Quality and Practices into Software Engineering Education (Doctoral Consortium)"
+title: "Bringing Industry-Grade Code Quality and Practices into Software Engineering Education"
 authors: '<i>Anastasiia Birillo</i>'
 status: "published"
 collection: publications

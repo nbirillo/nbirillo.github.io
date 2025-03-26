@@ -15,6 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
+<b>2025</b>: <a href="https://ide-workshop.github.io/">IDE</a>, <a href="https://sigcse2025.sigcse.org/">SIGCSE</a><br>
 <b>2024</b>: <a href="https://conf.researchr.org/home/icer-2024">ICER</a>, <a href="https://ide-workshop.github.io/content/ide-2024.html">IDE</a>, <a href="https://www.kolicalling.fi/">Koli Calling</a><br>
 <b>2023</b>: <a href="https://conf.researchr.org/home/icse-2023">ICSE</a>, <a href="https://iticse.acm.org/2023/">ITiCSE</a><br>
 <b>2022</b>: <a href="https://conf.researchr.org/home/icse-2022">ICSE</a>, <a href="https://conf.researchr.org/home/msr-2022">MSR</a>, <a href="https://sigcse2022.sigcse.org/">SIGCSE</a><br>

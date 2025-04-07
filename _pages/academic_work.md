@@ -30,11 +30,11 @@ author_profile: true
 <b>2023</b>: <a href="https://conf.researchr.org/track/ease-2023/ease-2023-research?">EASE</a> (Research Track PC), <a href="https://2023.esec-fse.org/track/fse-2023-industry?">ESEC/FSE</a> (Industry Track PC), <a href="https://sigcse2023.sigcse.org/track/sigcse-ts-2023-papers">SIGCSE</a> (Experience Reports and Tools Track PC)<br>
 <b>2022</b>: <a href="https://conf.researchr.org/track/ease-2022/ease-2022-research">EASE</a> (Research Track PC), <a href="https://2022.esec-fse.org/track/fse-2022-industry?">ESEC/FSE</a> (Industry Track PC), <a href="https://sigcse2022.sigcse.org/">SEIM</a>, <a href="https://sigcse2022.sigcse.org/">SIGCSE</a> (Demonstration Track PC)
 
-<h3>Organizer of Tutorials and panels</h3>
+<h3>Organizer of Tutorials and Panels</h3>
 
 <b>2025</b><br>
-– <i>"When People Come First: A Human-Centered Approach to Computer Science Education"<i> at <a href="https://iticse.acm.org/2025/">ITiCSE</a>.
-– <i><a href="https://jb.gg/edm-tutorial-koala">"Leveraging KOALA for Programming Data Collection: A Half-Day Tutorial for Research Application"</a></i> at <a href="https://educationaldatamining.org/edm2025/">EDM</a>.
+– <i>"When People Come First: A Human-Centered Approach to Computer Science Education"<i> at <a href="https://iticse.acm.org/2025/">ITiCSE</a>.<br>
+– <i><a href="https://jb.gg/edm-tutorial-koala">"Leveraging KOALA for Programming Data Collection: A Half-Day Tutorial for Research Application"</a></i> at <a href="https://educationaldatamining.org/edm2025/">EDM</a>.<br>
 – <i><a href="https://lp.jetbrains.com/sigcse-ide-v2-4147/">"Creating in-IDE Programming Courses"</a></i> at <a href="https://sigcse2025.sigcse.org/">SIGCSE</a>.
 
 <hr color="#888888" size="4" noshade>

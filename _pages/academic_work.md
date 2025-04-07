@@ -15,7 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
-<b>2025</b>: <a href="https://ide-workshop.github.io/">IDE</a>, <a href="https://iticse.acm.org/2025/">ITiCSE</a>, <a href="https://sigcse2025.sigcse.org/">SIGCSE</a><br>
+<b>2025</b>: <a href="https://educationaldatamining.org/edm2025/">EDM</a>, <a href="https://ide-workshop.github.io/">IDE</a>, <a href="https://iticse.acm.org/2025/">ITiCSE</a>, <a href="https://sigcse2025.sigcse.org/">SIGCSE</a><br>
 <b>2024</b>: <a href="https://conf.researchr.org/home/icer-2024">ICER</a>, <a href="https://ide-workshop.github.io/content/ide-2024.html">IDE</a>, <a href="https://www.kolicalling.fi/">Koli Calling</a><br>
 <b>2023</b>: <a href="https://conf.researchr.org/home/icse-2023">ICSE</a>, <a href="https://iticse.acm.org/2023/">ITiCSE</a><br>
 <b>2022</b>: <a href="https://conf.researchr.org/home/icse-2022">ICSE</a>, <a href="https://conf.researchr.org/home/msr-2022">MSR</a>, <a href="https://sigcse2022.sigcse.org/">SIGCSE</a><br>
@@ -30,6 +30,13 @@ author_profile: true
 <b>2023</b>: <a href="https://conf.researchr.org/track/ease-2023/ease-2023-research?">EASE</a> (Research Track PC), <a href="https://2023.esec-fse.org/track/fse-2023-industry?">ESEC/FSE</a> (Industry Track PC), <a href="https://sigcse2023.sigcse.org/track/sigcse-ts-2023-papers">SIGCSE</a> (Experience Reports and Tools Track PC)<br>
 <b>2022</b>: <a href="https://conf.researchr.org/track/ease-2022/ease-2022-research">EASE</a> (Research Track PC), <a href="https://2022.esec-fse.org/track/fse-2022-industry?">ESEC/FSE</a> (Industry Track PC), <a href="https://sigcse2022.sigcse.org/">SEIM</a>, <a href="https://sigcse2022.sigcse.org/">SIGCSE</a> (Demonstration Track PC)
 
+<h3>Organizer of Tutorials and panels</h3>
+
+<b>2025</b><br>
+– <i>"When People Come First: A Human-Centered Approach to Computer Science Education"<i> at <a href="https://iticse.acm.org/2025/">ITiCSE</a>.
+– <i><a href="https://jb.gg/edm-tutorial-koala">"Leveraging KOALA for Programming Data Collection: A Half-Day Tutorial for Research Application"</a></i> at <a href="https://educationaldatamining.org/edm2025/">EDM</a>.
+– <i><a href="https://lp.jetbrains.com/sigcse-ide-v2-4147/">"Creating in-IDE Programming Courses"</a></i> at <a href="https://sigcse2025.sigcse.org/">SIGCSE</a>.
+
 <hr color="#888888" size="4" noshade>
 
 <h2>Education</h2>
@@ -39,7 +46,6 @@ author_profile: true
 <b>From 2023</b>: Computer Science teacher at <a href="https://www.nup.ac.cy/">Neapolis University Pafos</a>.<br>
 <b>From 2023</b>: Computer Science teacher at <a href="https://constructor.university/">Constructor University</a>.<br>
 <b>2020–2022</b>: Computer Science teacher at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.
-
 
 <h3>Theses</h3>
 

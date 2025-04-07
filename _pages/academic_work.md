@@ -32,7 +32,7 @@ author_profile: true
 
 <h3>Organizer of Tutorials and Panels</h3>
 
-<b>2025</b><br>
+<b>2025</b>.<br>
 – <i>"When People Come First: A Human-Centered Approach to Computer Science Education"<i> at <a href="https://iticse.acm.org/2025/">ITiCSE</a>.<br>
 – <i><a href="https://jb.gg/edm-tutorial-koala">"Leveraging KOALA for Programming Data Collection: A Half-Day Tutorial for Research Application"</a></i> at <a href="https://educationaldatamining.org/edm2025/">EDM</a>.<br>
 – <i><a href="https://lp.jetbrains.com/sigcse-ide-v2-4147/">"Creating in-IDE Programming Courses"</a></i> at <a href="https://sigcse2025.sigcse.org/">SIGCSE</a>.

@@ -33,9 +33,9 @@ author_profile: true
 <h3>Organizer of Tutorials and Panels</h3>
 
 <b>2025</b>.<br>
-– <i>"When People Come First: A Human-Centered Approach to Computer Science Education"<i> at <a href="https://iticse.acm.org/2025/">ITiCSE</a>.<br>
-– <i><a href="https://jb.gg/edm-tutorial-koala">"Leveraging KOALA for Programming Data Collection: A Half-Day Tutorial for Research Application"</a></i> at <a href="https://educationaldatamining.org/edm2025/">EDM</a>.<br>
-– <i><a href="https://lp.jetbrains.com/sigcse-ide-v2-4147/">"Creating in-IDE Programming Courses"</a></i> at <a href="https://sigcse2025.sigcse.org/">SIGCSE</a>.
+– Panel <i>"When People Come First: A Human-Centered Approach to Computer Science Education"<i> at <a href="https://iticse.acm.org/2025/">ITiCSE</a>.<br>
+– Tutorial <i><a href="https://jb.gg/edm-tutorial-koala">"Leveraging KOALA for Programming Data Collection: A Half-Day Tutorial for Research Application"</a></i> at <a href="https://educationaldatamining.org/edm2025/">EDM</a>.<br>
+– Tutorial <i><a href="https://lp.jetbrains.com/sigcse-ide-v2-4147/">"Creating in-IDE Programming Courses"</a></i> at <a href="https://sigcse2025.sigcse.org/">SIGCSE</a>.
 
 <hr color="#888888" size="4" noshade>
 
@@ -49,5 +49,5 @@ author_profile: true
 
 <h3>Theses</h3>
 
-<b>2020</b>: Master's thesis in Computer Science, <i>"“Efficient search for functional dependency in databases"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>2020</b>: Master's thesis in Computer Science, <i>"Efficient search for functional dependency in databases"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017</b>: Bachelor's thesis in Computer Science, <i>"Algebraic Bayesian Networks: Data representation, processing algorithms and programme complex reengineering"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.

@@ -1,6 +1,6 @@
 ---
 title: "GenAI Integration in Upper-Level Computing Courses"
-authors: '<i>"Dennis J Bouvier, Bruno Pereira Cipriano, Richard Glassey, Raymond Pettit, Emma Anderson, Anastasia Birillo, Ryan Dougherty, Orit Hazzan, Olga Petrovska, Nuno Pombo, Ebrahim Rahimi, Charanya Ramakrishnan, Alexander Steinmaurer, Shubbhi Taneja, Muhammad Usman, Annapurna Vadaparty, Govindha Ramaiah Yeluripati"</i>'
+authors: '<i>Dennis J Bouvier, Bruno Pereira Cipriano, Richard Glassey, Raymond Pettit, Emma Anderson, Anastasia Birillo, Ryan Dougherty, Orit Hazzan, Olga Petrovska, Nuno Pombo, Ebrahim Rahimi, Charanya Ramakrishnan, Alexander Steinmaurer, Shubbhi Taneja, Muhammad Usman, Annapurna Vadaparty, Govindha Ramaiah Yeluripati</i>'
 status: "accepted"
 collection: publications
 permalink: /publications/2025-07-02-genAI-working-group

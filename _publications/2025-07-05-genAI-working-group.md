@@ -1,11 +1,12 @@
 ---
 title: "GenAI Integration in Upper-Level Computing Courses"
 authors: '<i>Dennis J Bouvier, Bruno Pereira Cipriano, Richard Glassey, Raymond Pettit, Emma Anderson, Anastasia Birillo, Ryan Dougherty, Orit Hazzan, Olga Petrovska, Nuno Pombo, Ebrahim Rahimi, Charanya Ramakrishnan, Alexander Steinmaurer, Shubbhi Taneja, Muhammad Usman, Annapurna Vadaparty, Govindha Ramaiah Yeluripati</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-07-02-genAI-working-group
 date: 2025-07-02
-venue: "<b>ITiCSE'25</b>"
+venue: "the proceedings of <b>ITiCSE'25</b>"
+paperurl: 'https://doi.org/10.1145/3724389.3731276'
 pdf: "https://nbirillo.github.io/files/iticse2025-working-group.pdf"
 level: 'A'
 counter_id: 'C19'

@@ -1,12 +1,13 @@
 ---
 title: "KOALA: Customizable IDE Data Collection Tool"
 authors: '<i>Daniil Karol, Elizaveta Artser, Ilya Vlasov, Yaroslav Golubev, Hieke Keuning, and Anastasiia Birillo</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-07-01-koala-poster
 date: 2025-07-01
-venue: "<b>ITiCSE'25</b>"
+venue: "the proceedings of <b>ITiCSE'25</b>"
 tool: 'https://github.com/JetBrains-Research/tasktracker-3'
+paperurl: "https://doi.org/10.1145/3724389.3730770"
 pdf: "https://www.researchgate.net/publication/391076087_KOALA_Customizable_IDE_Data_Collection_Tool"
 level: 'A'
 counter_id: 'C16'

@@ -1,11 +1,12 @@
 ---
 title: "Multimodal Analogy Generation in Programming Education"
 authors: '<i>Yuri Noviello, Anastasiia Birillo, and Gosia Migut</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-07-01-multimodal-analogy-generation-poster
 date: 2025-07-01
-venue: "<b>ITiCSE'25</b>"
+venue: "the proceedings of <b>ITiCSE'25</b>"
+paperurl: "https://doi.org/10.1145/3724389.3730781"
 pdf: 'https://nbirillo.github.io/files/iticse2025-multimodal-analogy-generation.pdf'
 level: 'A'
 counter_id: 'C17'

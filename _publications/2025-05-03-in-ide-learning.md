@@ -1,11 +1,11 @@
 ---
 title: "In-IDE Programming Courses: Learning Software Development in a Real-World Setting"
 authors: '<i>Anastasiia Birillo, Ilya Vlasov, Katsiaryna Dzialets, Hieke Keuning, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-05-03-in-ide-learning
 date: 2025-05-03
-venue: "<b>IDE'25</b>"
+venue: "the proceedings of <b>IDE'25</b>"
 level: "Workshop"
 paperurl: "https://doi.org/10.1109/IDE66625.2025.00005"
 pdf: 'https://arxiv.org/abs/2501.17747'

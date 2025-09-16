@@ -5,7 +5,7 @@ status: "accepted"
 collection: publications
 permalink: /publications/2025-10-25-cs-education-survey
 date: 2025-10-25
-venue: "<b>CompEd</b>"
+venue: "<b>CompEd'25</b>"
 pdf: 'https://arxiv.org/abs/2508.05286'
 data: 'https://zenodo.org/records/16754164'
 counter_id: 'C20'

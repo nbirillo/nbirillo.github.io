@@ -5,6 +5,8 @@ status: "accepted"
 collection: publications
 permalink: /publications/2026-02-18-student-interaction-with-ai-hints
 date: 2026-02-18
+pdf: "https://arxiv.org/abs/2511.06362"
+data: "https://zenodo.org/records/17551130"
 venue: "<b>SIGCSE'26</b>"
 counter_id: 'C22'
 level: 'A'

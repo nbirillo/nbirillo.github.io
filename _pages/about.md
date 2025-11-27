@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-Hello! My name is Anastasiia, and I am the Head of the **Education Research** lab at [JetBrains Research](https://www.jetbrains.com/research/). I am also an external PhD student
+Hello! My name is Anastasiia, and I am the Head of the **Education Research** lab at [JetBrains Research](https://lp.jetbrains.com/research/software-engineering/). I am also an external PhD student
 in Computer Science at [Utrecht University](https://www.uu.nl/en) and a track lead in a joint PhD track _“Intelligent Teaching
 Assistant in Programming Education”_ between [Delft University of Technology](https://www.tudelft.nl/en/) and JetBrains. 
 
@@ -25,6 +25,6 @@ My general research interests include:
 * intelligent tutoring systems
 * generative AI
 
-On this website, you can find the list of my [publications](https://jzuken.github.io/publications/), practical [tools](https://jzuken.github.io/tools/) developed under my supervision, my [academic and educational work](https://jzuken.github.io/academic_work/), as well as the recordings of my [talks](https://jzuken.github.io/talks/) at various places.
+On this website, you can find the list of my [publications](https://nbirillo.github.io/publications/), practical [tools](https://nbirillo.github.io/tools/) developed under my supervision, my [academic and educational work](https://nbirillo.github.io/academic_work/), as well as the recordings of my [talks](https://nbirillo.github.io/talks/) at various places.
 
-Feel free to [contact me](mailto:timofey.bryksin[at]jetbrains.com) if you want to collaborate!
+Feel free to [contact me](mailto:anastasia.birillo[at]jetbrains.com) if you want to collaborate!

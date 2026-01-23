@@ -7,6 +7,7 @@ permalink: /publications/2026-04-18-ai-debugging
 date: 2026-04-18
 pdf: "https://arxiv.org/abs/2601.02504"
 data: "https://zenodo.org/records/18045875"
+tool: "https://zenodo.org/records/18045875"
 venue: "<b>ICSE'26</b>"
 counter_id: 'C23'
 level: 'A*'

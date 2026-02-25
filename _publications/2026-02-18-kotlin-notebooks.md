@@ -1,0 +1,13 @@
+---
+title: "Bringing Interactive Learning to Industrial IDEs: Kotlin Notebook and LLM-Generated Exercises"
+authors: '<i>Daniil Karol, Ksenia Shneyveys, Roman Belov, and Anastasiia Birillo</i>'
+status: "published"
+collection: publications
+permalink: /publications/2026-02-18-kotlin-notebooks
+date: 2026-02-18
+venue: "the proceedings of <b>SIGCSE'26</b>"
+paperurl: "https://doi.org/10.1145/3770762.3772544"
+counter_id: 'C22'
+level: 'A'
+abstract: "<p><b>Abstract</b>. In-IDE learning became a popular approach, integrating programming education with professional development tools in a seamless environment. Kotlin Notebook extends this concept by enabling highly interactive lessons within an industrial IDE while leveraging its capabilities, such as code quality inspections or refactorings. Kotlin Notebook structures programming content into interactive sections, enhancing both engagement and comprehension. This talk explores the combination of in-IDE learning and Kotlin Notebook with the integration of LLMs to create a powerful tool for interactive learning within an industrial-grade IDE.</p><p>We propose a method for automatically generating exercises, visual materials, and contextual explanations directly within Kotlin Notebook. This approach not only streamlines lesson creation but also allows students to stay within the IDE and interact with its professional features. Additionally, previous research has shown that integrating LLMs with IDE functionality can enhance the quality and control of LLM outputs through static analysis and validation. This combination represents a novel and scalable approach to improving programming education and interactive learning experiences.</p>"
+---
